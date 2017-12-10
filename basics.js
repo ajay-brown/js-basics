@@ -1,4 +1,5 @@
 /* Create a `myName` variable and assign it a String value */
+
 var myName = "Audrey"
 
 /* Create a `person` variable and give it 2 properties,
@@ -32,7 +33,7 @@ if (person < 16) {
  * (there are 6 different data types);
  */
 var pizza = {type:"pepperoni"};
-var dataTypes = [true, 10, "hello", null, undefined, pizza]
+var dataTypes = [true, 10, "hi", null, undefined, pizza]
 
 /* Create a `dog` object
  * it should have a `bark` function that makes your dog bark!
@@ -45,4 +46,5 @@ var dataTypes = [true, 10, "hello", null, undefined, pizza]
 			console.log("BARK!");
 			}
 };
+
 
